@@ -9,6 +9,7 @@ import jakarta.persitence.GeneratedValue;
 import jakarta.persitence.GerationType;
 import jakarta.persitence.Id;
 import jakarta.persitence.OneToMany;
+import jakarta.persitence.ManyToMany;
 import jakarta.persitence.Table;
 
 @Entinty
